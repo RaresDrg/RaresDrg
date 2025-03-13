@@ -35,7 +35,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</div>
 
 <h2>📌 Projects</h2>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>TaskPro</i></b> - Full-Stackk app.</div>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>TaskPro</i></b> - Full-Stackk app.</div>
 </div>  
 
 
