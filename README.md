@@ -21,5 +21,5 @@
 <p>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ‎‎I’m eager to take the next step in my career and join a forward-thinking company where I can contribute my skills, continue to grow, and make a positive impact. I’m looking for a workplace that values innovation, collaboration, and continuous learning - a place where I can thrive both as a developer and as a person.</p>
 
 <h2>📞 Let's Connect</h2>
-<p>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to invite you to explore my Linktree, where you can find various ways to connect with me. Your engagement means a lot to me, and I look forward to connecting with you. Please check out the following link: 🌐 <a href="https://linktr.ee/Rares_Dragan">https://linktr.ee/Rares_Dragan</a></p>
+<p>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to invite you to explore my Linktree, where you can find various ways to connect with me. Your engagement means a lot to me, and I look forward to connecting with you. Please check out the following link: 🌐 <a href="https://linktr.ee/Rares_Dragan">https://linktr.ee/Rares_Dragan</a></p>
 
