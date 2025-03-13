@@ -11,5 +11,5 @@
 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎✨ 𝙏𝙚𝙖𝙢𝙬𝙤𝙧𝙠 - collaborating effectively within a team, providing support and ensuring empathetic interactions.</p>
 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎✨ 𝙋𝙧𝙤𝙗𝙡𝙚𝙢-𝙎𝙤𝙡𝙫𝙞𝙣𝙜 - seeing challenges as opportunities for growth and showing </p>
 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎✨ 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝒕𝒐 𝑫𝒆𝒕𝒂𝒊𝒍 - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</p>
-<p>‎ ‎ ‎ ‎ ‎ ‎ ‎✨ 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙚𝙙 - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</p>
+<p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎✨ 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙚𝙙 - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</p>
 
