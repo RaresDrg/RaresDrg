@@ -9,9 +9,11 @@
 
 
 <h2>🌟 Soft Skills</h2>
+<h6><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</h6>
+
 <ul>
-  ‎‎&nbsp;<li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</li>
-  ‎‎&nbsp;‎‎&nbsp;<li><b><i>Teamwork</i></b> - collaborating effectively within a team, providing support and ensuring empathetic interactions.</li>
+  <li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</li>
+  ‎‎<li><b><i>Teamwork</i></b> - collaborating effectively within a team, providing support and ensuring empathetic interactions.</li>
   <li><b><i>Problem-Solving</i></b> - seeing challenges as opportunities for growth and showing determination to solve them.</li>
   <li><b><i>Atention to Detail</i></b> - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</li>
   <li><b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</li>
