@@ -44,7 +44,7 @@
   <img width="10" />
   <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  /></a>
   <img width="10" />
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  />
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  /></a>
   <img width="10" />
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
 </div>
