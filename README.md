@@ -8,7 +8,7 @@
 
 <h2>🌟 Soft Skills</h2>
 <ul>
-  <li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives./li>
+  <li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</li>
 </ul>
 
 
