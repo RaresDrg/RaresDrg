@@ -27,6 +27,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
 </div>
 
+<h2>🛠️ Hard Skills</h2>
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  /></a>
+  <img width="10" />
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  /></a>
+  <img width="10" />
+  <a> href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  /></a>
+  <img width="10" />
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  /></a>
+  <img width="10" />
+  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  /></a>
+  <img width="10" />
+  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo"  /></a>
+  <img width="10" />
+  <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo"  /></a>
+  <img width="10" />
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="express logo"  />
+  <img width="10" />
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
+</div>
+
 <h2>🌟 Soft Skills</h2>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Teamwork</i></b> - collaborating effectively within a team, providing support and ensuring empathetic interactions.</div>
