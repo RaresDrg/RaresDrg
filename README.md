@@ -7,6 +7,9 @@
 <p>🚀 Since then, I have been captivated by this field and I have committed myself to continuous learning and improvement. I am constantly enhancing my skills and knowledge to become a highly proficient professional in the industry.</p>
 
 <h2>🌟 Soft Skills</h2>
+<ul>
+  <li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives./li>
+</ul>
 
 
 <h2>🌟 Soft Skills</h2>
