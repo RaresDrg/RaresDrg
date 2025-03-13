@@ -36,16 +36,8 @@
 
 
 <h2>📁 Projects</h2>
-<h2>💼 Projects</h2>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✔ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◽ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔥 <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
+
 
 
 
