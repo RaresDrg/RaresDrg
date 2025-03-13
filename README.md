@@ -36,7 +36,7 @@
 
 <h2>📌 Projects</h2>
 <div>
-  <a href="https://github.com/RaresDrg/TaskPro"><img src="https://res.cloudinary.com/db73szjbz/image/upload/v1741641782/TaskPro/assets/logo/vuyvdwiaxcoaj9po4uv8.png" height="35" alt="mongodb logo"  /></a>
+  <a href="https://github.com/RaresDrg/TaskPro"><img src="https://res.cloudinary.com/db73szjbz/image/upload/v1741641782/TaskPro/assets/logo/vuyvdwiaxcoaj9po4uv8.png" height="20" alt="mongodb logo"  /></a>
 </div>  
 
 
