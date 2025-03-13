@@ -1,7 +1,7 @@
 <h1 align='center'>Junior Full-Stack Web Developer</h1>
 
 <h2>👨‍💻 About me</h2>
-<div>&nbsp;&nbsp;&nbsp;&nbsp; ⚡ I'm Rares Dragan, an enthusiastic <b>fullstack developer</b> with a passion for crafting engaging and innovative web experiences.</div>  
+<div>&nbsp;&nbsp;&nbsp;&nbsp; 🙋‍♂️ I'm Rares Dragan, an enthusiastic <b>fullstack developer</b> with a passion for crafting engaging and innovative web experiences.</div>  
 <div>&nbsp;&nbsp;&nbsp;&nbsp; 👣 My journey into the IT field began in 2023 when I enrolled in a comprehensive course, where I was gradually introduced to the fundamentals of <b>front-end development</b>, followed by <b>back-end technologies</b>, mastering both visual and server-side aspects of applications.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Since then, I have been captivated by this field and I have committed myself to continuous learning and improvement. I am constantly enhancing my skills and knowledge to become a highly proficient professional in the industry.</div>
 
