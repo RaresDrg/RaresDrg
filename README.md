@@ -31,7 +31,6 @@
 
 <h2>🌟 Soft Skills</h2>
 <ul>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</li>
   <li><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</li>
   <li><b><i>Teamwork</i></b> - - collaborating effectively within a team, providing support and ensuring empathetic interactions.</li>
   <li><b><i>Problem-Solving</i></b> - seeing challenges as opportunities for growth and showing determination to solve them.</li>
