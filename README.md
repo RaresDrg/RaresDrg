@@ -1,4 +1,4 @@
-<h1 align='center'>Junior Full-Stack Web Developer</h1>
+<h1 align='left'>Junior Full-Stack Web Developer</h1>
 
 <br>
 <h2>👨‍💻 About me</h2>
