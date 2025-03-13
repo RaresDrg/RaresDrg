@@ -31,12 +31,11 @@
 
 <h2>🌟 Soft Skills</h2>
 <ul>
-  <div><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
-  <div><b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
-  <div><b><i>Teamwork</i></b> - - collaborating effectively within a team, providing support and ensuring empathetic interactions.</div>
-  <div><b><i>Problem-Solving</i></b> - seeing challenges as opportunities for growth and showing determination to solve them.</div>
-  <div><b><i>Atention to Detail</i></b> - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</div>
-  <div><b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Teamwork</i></b> - - collaborating effectively within a team, providing support and ensuring empathetic interactions.</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Problem-Solving</i></b> - seeing challenges as opportunities for growth and showing determination to solve them.</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Atention to Detail</i></b> - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</div>
 </ul>
 
 <h2>🔍 Career Aspirations</h2>
