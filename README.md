@@ -1,1 +1,1 @@
-<h1>Junior Full-Stack Web Developer</h1>
+<h1 aling='center'>Junior Full-Stack Web Developer</h1>
