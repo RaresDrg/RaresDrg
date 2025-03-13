@@ -34,7 +34,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Atention to Detail</i></b> - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</div>
 
-<h2>📌 Projects</h2>
+<h2>💼 Projects</h2>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
 
 
