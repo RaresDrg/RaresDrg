@@ -17,6 +17,8 @@
   <li><b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</li>
 </ul>
 
+<h2>🔍 Career Aspirations</h2>
+<p>I’m eager to take the next step in my career and join a forward-thinking company where I can contribute my skills, continue to grow, and make a positive impact. I’m looking for a workplace that values innovation, collaboration, and continuous learning - a place where I can thrive both as a developer and as a person.</p>
 
 
 
