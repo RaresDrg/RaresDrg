@@ -38,7 +38,7 @@
 <br>
 
 <h2>📁 Projects</h2>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪ <a href="https://github.com/RaresDrg/TaskPro">TaskPro</a> - React, TypeScript, Node.js, Express, MongoDB</div>
 <br>
 
 <h2>🔍 Career Aspirations</h2>
@@ -46,5 +46,5 @@
 <br>
 
 <h2>📞 Let's Connect</h2>
-<p>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to invite you to explore my Linktree, where you can find various ways to connect with me. Your engagement means a lot to me, and I look forward to connecting with you. Please check out the following link: 🌐 <a href="https://linktr.ee/Rares_Dragan">https://linktr.ee/Rares_Dragan</a></p>
+<div>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to invite you to explore my Linktree, where you can find various ways to connect with me. Your engagement means a lot to me, and I look forward to connecting with you. Please check out the following link: 🌐 <a href="https://linktr.ee/Rares_Dragan">https://linktr.ee/Rares_Dragan</a></div>
 
