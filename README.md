@@ -42,7 +42,7 @@
 <br>
 
 <h2>🔍 Career Aspirations</h2>
-<p>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ‎‎I’m eager to take the next step in my career and join a forward-thinking company where I can contribute my skills, continue to grow, and make a positive impact. I’m looking for a workplace that values innovation, collaboration, and continuous learning - a place where I can thrive both as a developer and as a person.</p>
+<div>‎‎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ‎‎I’m eager to take the next step in my career and join a forward-thinking company where I can contribute my skills, continue to grow, and make a positive impact. I’m looking for a workplace that values innovation, collaboration, and continuous learning - a place where I can thrive both as a developer and as a person.</div>
 <br>
 
 <h2>📞 Let's Connect</h2>
