@@ -33,7 +33,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Teamwork</i></b> - collaborating effectively within a team, providing support and ensuring empathetic interactions.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Problem-Solving</i></b> - seeing challenges as opportunities for growth and showing determination to solve them.</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Attention to Detail</i></b> - carefully inspecting tasks to ensure the highest standards of quality and accuracy.</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Attention to Detail</i></b> - carefully inspecting tasks to maintain the highest standards of quality and accuracy.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Organized</i></b> - meticulously organizing work processes to ensure efficiency and timeliness in task completion.</div>
 <br>
 
