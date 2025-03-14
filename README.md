@@ -5,6 +5,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👣 My journey into the IT field began in 2023 when I enrolled in a comprehensive course, where I was gradually introduced to the fundamentals of <b>front-end development</b>, followed by <b>back-end technologies</b>, mastering both visual and server-side aspects of applications.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Since then, I have been captivated by this field and I have committed myself to continuous learning and improvement. I am constantly enhancing my skills and knowledge to become a highly proficient professional in the industry.</div>
 
+<br>
 <h2>🛠️ Hard Skills</h2>
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +27,8 @@
   <img width="10" />
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="35" alt="mongodb logo"  />
 </div>
-
+<br>
+    
 <h2>🌟 Soft Skills</h2>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Communication</i></b> - clearly expressing thoughts and actively listening to understand others' perspectives.</div>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b><i>Teamwork</i></b> - collaborating effectively within a team, providing support and ensuring empathetic interactions.</div>
