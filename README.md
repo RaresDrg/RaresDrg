@@ -1,4 +1,5 @@
 <h1 align='center'>Junior Full-Stack Web Developer</h1>
+<br>
 
 <h2>👨‍💻 About me</h2>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🙋‍♂️ Hello ! My name is Rares Dragan. I'm an enthusiastic <b>fullstack developer</b> with a passion for crafting engaging and innovative web experiences.</div>  
