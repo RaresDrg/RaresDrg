@@ -27,51 +27,15 @@
 <h2>🛠️ Hard Skills</h2>
 <div>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/HTML" 
-      height="35" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CSS" 
-      height="35" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/JS" 
-      height="35" />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/TS" 
-      height="35" />
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REACT" 
-      height="35" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REDUX" 
-      height="35" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/NODE.JS" 
-      height="35" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/EXPRESS.JS" 
-      height="35" />
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/MONGO.DB" 
-      height="35" />
-  </a>
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/HTML" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/CSS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/TS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REACT" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/REDUX" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/NODE.JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/EXPRESS.JS" height="35" />
+  <img src="https://res.cloudinary.com/db73szjbz/image/upload/f_auto,q_auto/MONGO.DB" height="35" />
 </div>
 <br>
 
