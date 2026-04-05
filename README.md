@@ -72,12 +72,12 @@
 <h2>📁 Projects</h2>
 <div>
   <div>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾</span>
     <a href="https://github.com/RaresDrg/MoneyGuard" target="_blank" rel="noopener noreferrer"><b>MoneyGuard</b></a>
     <span>– <i>React, TypeScript, Node.js, Express, MongoDB</i></span>
   </div>
   <div>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◾</span>
     <a href="https://github.com/RaresDrg/TaskPro" target="_blank" rel="noopener noreferrer"><b>TaskPro</b></a>
     <span>– <i>React, TypeScript, Node.js, Express, MongoDB</i></span>
   </div>
