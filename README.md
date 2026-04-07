@@ -99,6 +99,6 @@
   <span>You can find various ways to connect with me at the following link:</span>
   <span>🌐</span>
   <a href="https://linktr.ee/Rares_Dragan" target="_blank" rel="noopener noreferrer">
-    <b>🌐https://linktr.ee/Rares_Dragan</b>
+    <b>https://linktr.ee/Rares_Dragan</b>
   </a> 
 </div>
